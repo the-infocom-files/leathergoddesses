@@ -2434,7 +2434,7 @@ clock, the score is " D ,PRSO " 17, player 17!!! But seriously, folks, y">)
 		<SETG HAND-COVER <>>
 		<RTRUE>)
 	       (<FSET? ,PRSO ,ACTORBIT>
-		<PERFORM ,V?UNDRESS ,OBJECT>
+		<PERFORM ,V?UNDRESS ,PRSO>
 		<RTRUE>)
 	       (T
 		<COND (<FSET? ,PRSO ,PLURALBIT>
