@@ -1650,7 +1650,7 @@ an opening between the dunes leads west.")
       (DESC "Canalview Mall")
       (LDESC
 "As with all Martian civilization, this once-fashionable shopping center has
-fallen upon hard times; the only store to have endured the fifteen-millenia
+fallen upon hard times; the only store to have endured the fifteen-millennia
 recession lies to the south. The canal is still as visible as it was when
 scheming marketeers misnamed the mall generations ago -- in other words, not
 at all. A path leads east, and a dune to the west seems mountable.")
