@@ -19,17 +19,15 @@ The following sources provide further information on Leather Goddesses of Phobos
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Leather Goddesses of Phobos listed in the Infocom Fact Sheet. It also holds the source files for version 59/860730 and a later, mac, version.
-
-| Release | Serial | Story File                               | Zarf Sources                   | Historical Sources |
-| -------:|:------:|:----------------------------------------:|:------------------------------:|:------------------:|
-|       1 | 851008 |   [leathergoddesses-first-r1-s851008.z3] |                              - |                  - |
-|      57 | 860121 |  [leathergoddesses-alpha-r57-s860121.z3] |                              - |                  - |
-|     118 | 860325 |  [leathergoddesses-beta-r118-s860325.z3] |                              - |                  - |
-|     160 | 860521 | [leathergoddesses-gamma-r160-s860521.z3] |                              - |                  - |
-|      50 | 860711 |        [leathergoddesses-r50-s860711.z3] |                              - |                  - |
-|      59 | 860730 |        [leathergoddesses-r59-s860730.z3] |     [leathergoddesses-r59.zip] |      [revision 59] |
-|       - |      - |                                        - | [leathergoddesses-mac-r59.zip] |   [final revision] |
+| Release | Serial | Type | Story File                               | Obsessive Sources              | Historical Sources |
+| -------:|:------:|:----:|:----------------------------------------:|:------------------------------:|:------------------:|
+|       1 | 851008 |  ??? |   [leathergoddesses-first-r1-s851008.z3] |                              - |                  - |
+|      57 | 860121 |  DEV |  [leathergoddesses-alpha-r57-s860121.z3] |                              - |                  - |
+|     118 | 860325 |  DEV |  [leathergoddesses-beta-r118-s860325.z3] |                              - |                  - |
+|     160 | 860521 |  DEV | [leathergoddesses-gamma-r160-s860521.z3] |                              - |                  - |
+|      50 | 860711 |  DEV |        [leathergoddesses-r50-s860711.z3] |                              - |                  - |
+|      59 | 860730 |  PUB |        [leathergoddesses-r59-s860730.z3] |     [leathergoddesses-r59.zip] |      [revision 59] |
+|       - |      - |  WIP |                                        - | [leathergoddesses-mac-r59.zip] |   [final revision] |
 
 [leathergoddesses-first-r1-s851008.z3]: https://eblong.com/infocom/gamefiles/leathergoddesses-first-r1-s851008.z3
 
