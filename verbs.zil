@@ -1212,7 +1212,7 @@ waiting for just such an occasion." CR>)
 	       (T
 		<TELL "\"Ssss.\"" CR>)>>
 
-<ROUTINE V-IN ("AUX" VEHICLE)
+<ROUTINE V-IN ()
 	 <DO-WALK ,P?IN>>
 
 <ROUTINE V-INFLATE ()
@@ -2715,7 +2715,7 @@ D ,SULTAN " cries \"Wrongo!\" and ">
 
 ;"subtitle object manipulation"
 
-<ROUTINE ITAKE ("OPTIONAL" (VB T) "AUX" ;CNT OBJ)
+<ROUTINE ITAKE ("OPTIONAL" (VB T))
 	 <COND (<NOT <FSET? ,PRSO ,TAKEBIT>>
 		<COND (.VB
 		       <YUKS>)>
