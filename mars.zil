@@ -1650,7 +1650,7 @@ an opening between the dunes leads west.")
       (DESC "Canalview Mall")
       (LDESC
 "As with all Martian civilization, this once-fashionable shopping center has
-fallen upon hard times; the only store to have endured the fifteen-millenia
+fallen upon hard times; the only store to have endured the fifteen-millennia
 recession lies to the south. The canal is still as visible as it was when
 scheming marketeers misnamed the mall generations ago -- in other words, not
 at all. A path leads east, and a dune to the west seems mountable.")
@@ -3669,7 +3669,7 @@ nothing a tough g">
       (IN ROOMS)
       (DESC "Allusion Room")
       (LDESC
-"A solitary black circle is the only break in an vaste expanse of whiteness
+"A solitary black circle is the only break in an vast expanse of whiteness
 extending to the horizon. Like a dark speck in a sea of white, or a huge piece
 of typing paper with but a single period typed upon it, this black circle seems
 to have been placed here entirely as an opportunity for some silly literary
